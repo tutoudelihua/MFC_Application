@@ -16,7 +16,7 @@ Important Notes:
        Change the character set to **Multi-byte Character Set.
        Add SQLite dependencies in the project properties:
            Under `VC++ Directories`:
-              Include Directories:** Add the path to the `inc` folder.
-              Library Directories:** Add the path to the `lib` folder.
-           Under `Linker` -> `Input` -> **Additional Dependencies:** Add `sqlite.lib`.
-4.  Project Status:** Please be aware that the project may still contain bugs and unfinished parts. We appreciate your understanding and patience.
+              Include Directories: Add the path to the `inc` folder.
+              Library Directories: Add the path to the `lib` folder.
+           Under `Linker` -> `Input` -> Additional Dependencies: Add `sqlite.lib`.
+4.  Project Status: Please be aware that the project may still contain bugs and unfinished parts. We appreciate your understanding and patience.
